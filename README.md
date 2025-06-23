@@ -1,4 +1,4 @@
-# Fusion 360 Paramters
+# Fusion 360 Parameters
 Containers of commonly used user parameters in my projects.
 
 ## Import
