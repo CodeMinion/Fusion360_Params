@@ -1,0 +1,79 @@
+[
+    {
+        "name": "D3H1_Magnet_Diameter",
+        "value": 0.47625,
+        "expression": "3 / 16 * 1 in",
+        "units": "mm",
+        "comment": "https://www.kjmagnetics.com/d3h1-neodymium-disc-magnet"
+    },
+    {
+        "name": "D3H1_Magnet_Thickness",
+        "value": 0.254,
+        "expression": "1 / 10 * 1 in",
+        "units": "mm",
+        "comment": "https://www.kjmagnetics.com/d3h1-neodymium-disc-magnet"
+    },
+    {
+        "name": "D32_N52_Magnet_Diameter",
+        "value": 0.47625,
+        "expression": "3 / 16 * 1 in",
+        "units": "mm",
+        "comment": "https://www.kjmagnetics.com/d32-n52-neodymium-disc-magnet"
+    },
+    {
+        "name": "D32_N52_Magnet_Thickness",
+        "value": 0.3175,
+        "expression": "1 / 8 * 1 in",
+        "units": "mm",
+        "comment": "https://www.kjmagnetics.com/d32-n52-neodymium-disc-magnet"
+    },
+    {
+        "name": "D64_N52_Magnet_Diameter",
+        "value": 0.9525,
+        "expression": "3 / 8 * 1 in",
+        "units": "mm",
+        "comment": "https://www.kjmagnetics.com/d64-n52-neodymium-disc-magnet"
+    },
+    {
+        "name": "D64_N52_Magnet_Thickness",
+        "value": 0.635,
+        "expression": "1 / 4 * 1 in",
+        "units": "mm",
+        "comment": "https://www.kjmagnetics.com/d64-n52-neodymium-disc-magnet"
+    },
+    {
+        "name": "D6A_Magnet_Diameter",
+        "value": 0.9525,
+        "expression": "3 / 8 * 1 in",
+        "units": "mm",
+        "comment": "https://www.kjmagnetics.com/d6a-neodymium-cylinder-magnet"
+    },
+    {
+        "name": "D6A_Magnet_Thickness",
+        "value": 1.5875,
+        "expression": "5 / 8 * 1 in",
+        "units": "mm",
+        "comment": "https://www.kjmagnetics.com/d6a-neodymium-cylinder-magnet"
+    },
+    {
+        "name": "B882_Magnet_Width",
+        "value": 1.27,
+        "expression": "1 / 2 * 1 in",
+        "units": "mm",
+        "comment": "https://www.kjmagnetics.com/b882-neodymium-block-magnet"
+    },
+    {
+        "name": "B882_Magnet_Height",
+        "value": 1.27,
+        "expression": "1 / 2 * 1 in",
+        "units": "mm",
+        "comment": "https://www.kjmagnetics.com/b882-neodymium-block-magnet"
+    },
+    {
+        "name": "B882_Magnet_Thickness",
+        "value": 0.3175,
+        "expression": "1 / 8 * 1 in",
+        "units": "mm",
+        "comment": "https://www.kjmagnetics.com/b882-neodymium-block-magnet"
+    }
+]
